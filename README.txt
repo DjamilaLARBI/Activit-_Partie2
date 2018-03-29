@@ -1,0 +1,1 @@
+ce projet contien un petite code en C qui fait le calcul de racinne carée 
